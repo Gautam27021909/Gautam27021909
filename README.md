@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam27021909&label=Profile%20views&color=0e75b6&style=flat" alt="gautam27021909" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gautam27021909)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaydesai2304)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
 </p>
