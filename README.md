@@ -4,8 +4,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gautam27021909&label=Profile%20views&color=0e75b6&style=flat" alt="gautam27021909" />
+  <img src="http://github-profile-trophy.vercel.app/?username=gautam27021909&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -57,9 +58,10 @@
   &nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam27021909&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam27021909&theme=tokyonight" alt="streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gautam27021909&theme=tokyonight&hide_border=false" />
 </p>
+
 
 ---
 
