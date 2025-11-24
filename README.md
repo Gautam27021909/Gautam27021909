@@ -67,7 +67,6 @@
 
 📍 **Saint Louis, MO**  
 📧 **kachhadiyagd@gmail.com**  
-📱 **314-224-7596**
 
 ---
 
